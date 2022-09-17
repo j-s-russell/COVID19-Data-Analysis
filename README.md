@@ -1,2 +1,2 @@
 # COVID19-Data-Analysis
-Coursera guided project analyzing trends in COVID-19 data
+Python project analyzing trends in COVID-19 data
